@@ -4,12 +4,12 @@ AdventoriaMetrics is a powerful and extensible Discord bot analytics and metrics
 
 ## 🚀 Features
 
-- 📝 **Message Logging** – Track how active your members are.
-- 🔁 **Reaction Tracking** – Log reactions for deeper engagement insights.
-- 🔊 **Voice Activity Tracking** – Monitor how much time members spend in voice channels.
-- 📊 **Modern Dashboard** – View real-time server stats with a web interface styled like Discord.
-- 💾 **MySQL Integration** – Robust and scalable data storage.
-- ⚙️ **Environment Config Support** – Easily manage secrets with `.env` files.
+-  **Message Logging** – Track how active your members are.
+-  **Reaction Tracking** – Log reactions for deeper engagement insights.
+-  **Voice Activity Tracking** – Monitor how much time members spend in voice channels.
+-  **Modern Dashboard** – View real-time server stats with a web interface styled like Discord.
+-  **MySQL Integration** – Robust and scalable data storage.
+- ⚙ **Environment Config Support** – Easily manage secrets with `.env` files.
 
 ## 📸 Preview
 
